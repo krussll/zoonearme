@@ -1,0 +1,21 @@
+# Site
+name: "How To Play Sport"
+title_suffix: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
+title: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
+description: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
+meta_description: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
+logo: ''
+favicon: "/assets/images/favicon.ico"
+baseurl: "https://www.howtoplaysport.com"
+permalink: /:categories/:title
+email: ""
+google_analytics: ""
+
+# Authors
+authors:
+  reece:
+    name: 
+    display_name: 
+    gravatar:
+    email: ""
+    description: ""

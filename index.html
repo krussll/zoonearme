@@ -1,0 +1,63 @@
+---
+layout: default
+title: Online Bowls Guides and Reviews
+canonical: /
+noAds: true
+---
+
+<!-- Home Jumbotron
+================================================== -->
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>The Rules Of The Sports You Love, Simply Explained, To Get You Playing Now.</h1> 
+        <h2 class="lead">Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today.</h2>
+    </div>
+</section>
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+                {% include featuredbox.html %}
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts row">
+
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+
+    <div class="col-sm-8">
+
+        <div class="section-title">
+            <h2><span>Latest Articles</span></h2>
+        </div>
+
+        <div class="masonrygrid row listrecent">
+            {% for post in site.posts limit:6 %}
+
+                {% include postbox.html %}
+
+            {% endfor %}
+        </div>
+    </div>
+
+</section>
