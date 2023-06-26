@@ -1,21 +1,21 @@
 # Site
-name: "How To Play Sport"
-title_suffix: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
-title: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
-description: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
-meta_description: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
+name: "Zoo Near Me"
+title_suffix: ""
+title: ""
+description: ""
+meta_description: ""
 logo: ''
 favicon: "/assets/images/favicon.ico"
 baseurl: "https://krussll.github.io/zoonearme"
-permalink: /:categories/:title
+permalink: /:title
 email: ""
 google_analytics: ""
 
 # Authors
 authors:
   reece:
-    name: 
-    display_name: 
+    name: Reece
+    display_name: Reece Williams 
     gravatar:
     email: ""
     description: ""
