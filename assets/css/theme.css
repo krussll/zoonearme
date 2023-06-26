@@ -136,7 +136,7 @@ section.recent-posts {
 .navbar-toggleable-md .navbar-nav .nav-link {
     margin-left: 1rem;
     font-weight: 500;
-    color: #333;
+    color: #fff;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 0.94em;
@@ -320,7 +320,7 @@ span.post-name a,span.post-read-more a:hover {
 .mediumnavigation .navbar-brand img {
 	margin-right:7px;
     vertical-align: text-bottom;
-    max-width:initial;
+    max-width:125px;
 }
 .mainheading h1.sitetitle {
 	font-family:Georgia;
