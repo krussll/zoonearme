@@ -112,6 +112,11 @@ section.recent-posts {
 .prevnextlinks .rightborder {
     border-right: 1px solid #eee;
 }
+
+.nav-link:hover {
+   color: rgba(255,255,255,.7) !important;	
+}
+
 .navbar-toggleable-md .navbar-nav .nav-link {
     margin-left: 1rem;
     font-weight: 500;
