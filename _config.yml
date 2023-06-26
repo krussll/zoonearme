@@ -6,7 +6,7 @@ description: "Providing expert guides on the basics of the rules and equipment o
 meta_description: "Providing expert guides on the basics of the rules and equipment on a variety of sports - to get you playing and enjoying sport today."
 logo: ''
 favicon: "/assets/images/favicon.ico"
-baseurl: "https://www.howtoplaysport.com"
+baseurl: "https://krussll.github.io/zoonearme"
 permalink: /:categories/:title
 email: ""
 google_analytics: ""
