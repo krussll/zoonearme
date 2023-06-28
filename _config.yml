@@ -10,6 +10,7 @@ baseurl: "https://krussll.github.io/zoonearme"
 permalink: /:title
 email: ""
 google_analytics: ""
+future: true
 
 # Authors
 authors:
