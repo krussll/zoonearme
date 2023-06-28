@@ -275,6 +275,10 @@ span.post-read-more a {
 span.post-name a,span.post-read-more a:hover {
 	color:rgba(0,0,0,.8);
 }
+
+.intro-block:first-child {
+	font-style: italic;
+}
 .dot:after {
 	content:"·";
 	margin-left:3px;
