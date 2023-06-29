@@ -78,6 +78,9 @@ Additionally, the zoo is home to a petting zoo, playground, and other attraction
 
 ## 4. Roscommon Zoo 
 
+![Roscommon Zoo](assets/images/zoos/roscommonzoo.jpg)
+^https://www.roscommonzoo.com/^
+
 Roscommon Zoo in Michigan is a small, independent zoo located in the town of Roscommon. 
 
 Despite its size, the zoo offers an exciting and unique experience for animal lovers of all ages. 
