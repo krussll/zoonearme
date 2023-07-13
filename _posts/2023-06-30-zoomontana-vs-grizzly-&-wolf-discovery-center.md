@@ -8,7 +8,7 @@ description: "Explore the nuances of Montana's wildlife at ZooMontana and the Gr
 first_paragraph: "<p>Dive into a fascinating comparison between ZooMontana, a family-friendly conservation hub spanning 70 acres, home to everything from tigers to sloths, and the Grizzly & Wolf Discovery Center, a 14-acre large-sized zoo in West Yellowstone devoted to the rescue and conservation of wolves and grizzly bears.</p><p>Learn about their diverse range of wildlife, educational opportunities, prices, and amenities which provide unique experiences for visitors of all ages.</p>"
 ---
 
-<div class="overview"> 
+<div class="overview" markdown="1"> 
 
 ## At A Glance 
 
