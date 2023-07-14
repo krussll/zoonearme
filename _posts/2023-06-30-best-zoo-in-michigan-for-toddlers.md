@@ -3,7 +3,7 @@ layout: post
 title:  "The Best Zoo In Michigan, USA For Toddlers"
 author: reece
 categories: [ zoo ]
-image: assets/images/best-zoo-in-michigan-for-toddlers.jpg
+image: assets/images/best-zoos-in-michigan-for-toddlers.jpg
 description: "Explore the most exciting and enriching zoos in Michigan. Learn about the various interactive exhibits, exotic animals, educational programs, and conservation efforts. Perfect for family outings, school trips, or wildlife enthusiasts."
 first_paragraph: "<p>Are you looking to ignite the spark of wildlife fascination in your little one's growing curiosity? Michigan, a state known for its diverse wildlife, boasts a plethora of zoos offering immersive experiences for the youngest of explorers.</p><p>From lively aquariums hosting a variety of marine life to zoos where toddlers can get up-close with soft fur and feathers, there's no shortage of wonder waiting in Michigan's zoos.</p><p>Cub-sized adventures await; so, strap on your explorers' boots and join us as we savannah-trek through the best zoos in Michigan for toddlers.</p>"
 ---
