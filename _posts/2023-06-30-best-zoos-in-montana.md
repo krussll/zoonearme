@@ -98,5 +98,5 @@ To gather more information or arrange a visit, potential visitors are encouraged
 
 
 
-* <a href="/zoomontana-vs-grizzly-&-wolf-discovery-center">Which is better: ZooMontana Or Grizzly & Wolf Discovery Center</a>
+* <a href="/zoomontana-vs-grizzly-wolf-discovery-center">Which is better: ZooMontana Or Grizzly & Wolf Discovery Center</a>
 
