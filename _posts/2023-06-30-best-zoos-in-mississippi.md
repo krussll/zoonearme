@@ -146,6 +146,6 @@ For any further information, the park's dedicated staff can be reached via their
 
 
 * <a href="/the-jackson-zoo-vs-hattiesburg-zoo">Which is better: The Jackson Zoo Or Hattiesburg Zoo</a>
-* <a href="/the-jackson-zoo-vs-tupelo-buffalo-park-&-zoo">Which is better: The Jackson Zoo Or Tupelo Buffalo Park & Zoo</a>
-* <a href="/hattiesburg-zoo-vs-tupelo-buffalo-park-&-zoo">Which is better: Hattiesburg Zoo Or Tupelo Buffalo Park & Zoo</a>
+* <a href="/the-jackson-zoo-vs-tupelo-buffalo-park-zoo">Which is better: The Jackson Zoo Or Tupelo Buffalo Park & Zoo</a>
+* <a href="/hattiesburg-zoo-vs-tupelo-buffalo-park-zoo">Which is better: Hattiesburg Zoo Or Tupelo Buffalo Park & Zoo</a>
 
