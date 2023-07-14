@@ -3,7 +3,7 @@ layout: post
 title:  "The Best Zoo In Minnesota, USA For Dogs"
 author: reece
 categories: [ zoo ]
-image: assets/images/best-zoo-in-minnesota-for-dogs.jpg
+image: assets/images/best-zoos-in-minnesota-for-dogs.jpg
 description: "Explore Minnesota's finest zoos through our detailed guide. Discover animal habitats, conservation efforts, educational programs, and more in our curated list of the top zoos in the state. Perfect for animal lovers, families, and travelers."
 first_paragraph: "<p>If you have a tail-wagger at home and reside in the glorious state of Minnesota, then our comprehensive guide to the state's best dog-friendly zoos is the perfect read for you! As unconventional as it sounds, our beloved furry friends also appreciate getting up close and personal with the ferocity of a lion or the majesty of an elephant.</p><p>Combine their walk routine with an informative immersion into the diverse animal kingdom, and you've got an excited pup with a whole new collection of smells to explore.</p><p>So leash up and get ready to embark on a wild adventure through the best zoos in Minnesota where our canine companions are more than welcome!</p>"
 ---
