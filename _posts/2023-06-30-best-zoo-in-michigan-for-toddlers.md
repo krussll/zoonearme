@@ -8,6 +8,7 @@ description: "Explore the most exciting and enriching zoos in Michigan. Learn ab
 first_paragraph: "<p>Are you looking to ignite the spark of wildlife fascination in your little one's growing curiosity? Michigan, a state known for its diverse wildlife, boasts a plethora of zoos offering immersive experiences for the youngest of explorers.</p><p>From lively aquariums hosting a variety of marine life to zoos where toddlers can get up-close with soft fur and feathers, there's no shortage of wonder waiting in Michigan's zoos.</p><p>Cub-sized adventures await; so, strap on your explorers' boots and join us as we savannah-trek through the best zoos in Michigan for toddlers.</p>"
 ---
 
+
 <div class="overview" markdown="1"> 
 
 ## At A Glance
