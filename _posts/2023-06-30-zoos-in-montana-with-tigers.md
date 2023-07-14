@@ -8,11 +8,15 @@ description: "Explore the top zoos in Montana for an up-close encounter with maj
 first_paragraph: "<p>In the captivating treasure trove of wildlife and wilderness, the state of Montana, you'll find some of the most majestic and thrilling creatures that walk the earth — Tigers! Are you drawn to the allure of these beautiful beasts and yearn for those perfect, up-close encounters? Whether it’s their powerful presence, the hypnotic patterns etched in their fur, or their sheer beauty that intrigues you, Montana’s finest zoos offer the chance to witness these magnificent creatures in environments designed to mirror their natural habitat.</p><p>Join us as we embark on an adventurous journey, exploring the crown jewels of Montana where you can come face-to-face with Tigers.</p><p>It's time to get ready for an escape into the wild!</p>"
 ---
 
+<div class="overview" markdown="1">
+        
 ## At A Glance 
 
 The best zoos in Montana to see Tigers are: 
 
 - ZooMontana
+
+</div>
 
 ## 1) ZooMontana
 
