@@ -8,6 +8,7 @@ description: "Explore Michigan's top zoos in this comprehensive guide! Discover 
 first_paragraph: "<p>Michigan, known for its bustling cities, incredible landscapes, and picturesque lakes, also prides in having some of the country's most accessible and disability-friendly zoos.</p><p>Inclusive and thoughtful design, combined with a strong commitment to providing extraordinary experiences for all visitors, these zoos ensure no one misses out on the fun and learning that zoo visits offer.</p><p>This article will guide you through the best zoos in Michigan that prioritize Disability Access, making them more than just a haven for various species, but a wonderland where everyone, regardless of their abilities, can enjoy close encounters with the animal kingdom.</p>"
 ---
 
+
 <div class="overview" markdown="1"> 
 
 ## At A Glance
