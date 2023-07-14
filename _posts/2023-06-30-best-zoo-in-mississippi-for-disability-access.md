@@ -3,7 +3,7 @@ layout: post
 title:  "The Best Zoo In Mississippi, USA For Disability Access"
 author: reece
 categories: [ zoo ]
-image: assets/images/best-zoo-in-mississippi-for-disability-access.jpg
+image: assets/images/best-zoos-in-mississippi-for-disability-access.jpg
 description: "Explore the best zoos in Mississippi, highlighting their unique exhibits, conservation initiatives, and interactive experiences. Perfect guide for families, animal lovers and explorers seeking thrilling wildlife encounters."
 first_paragraph: "<p>Navigating through a zoo can be a charmingly wild experience, full of unexpectant wonders and educational opportunities.</p><p>However, for individuals with disabilities, it can pose certain challenges.</p><p>Luckily, in the heartland of the U.S., the state of Mississippi has made admirable strides in making its zoos accessible, inclusive, and enjoyable for all.</p><p>We'll dive deep into the natural habitats of these facilities that not only prioritize providing a safe home for animals but also ensure accessibility for everyone.</p><p>Get ready to embark on a journey through the most disability-friendly zoos in the Magnolia state.</p>"
 ---
