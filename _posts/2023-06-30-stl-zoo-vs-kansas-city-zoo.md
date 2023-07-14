@@ -4,7 +4,7 @@ title:  "Which Is Best: STL Zoo Or Kansas City Zoo. A Guide To Which Is The Best
 author: reece
 categories: [ zoo ]
 image: assets/images/stl-zoo-vs-kansas-city-zoo.jpg
-description: ""Uncover the fascinating differences and similarities between the STL Zoo and Kansas City Zoo in our latest blog post. Learn about the unique animal exhibitions, conservation programs, and family-friendly amenities each zoo has to offer. Click to read more!""
+description: "Uncover the fascinating differences and similarities between the STL Zoo and Kansas City Zoo in our latest blog post. Learn about the unique animal exhibitions, conservation programs, and family-friendly amenities each zoo has to offer. Click to read more!"
 first_paragraph: "<p>Take a wild journey through two of Missouri's most cherished zoological parks- STL Zoo and Kansas City Zoo.</p><p>Both offer an array of stunning wildlife and family-friendly fun, yet each brings unique features to the table.</p><p>From STL Zoo’s free admission and educational endeavors, to Kansas City Zoo's expansive grounds and captivating creatures, join us as we delve into what makes each of these zoos a star attraction.</p><p>Whether you lean towards watching giraffes and elephants in spacious habitats or you're all about attending special events surrounded by tigers and bears, rest assured, these zoos have plenty to offer for everyone.</p>"
 ---
 
