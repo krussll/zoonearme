@@ -54,19 +54,20 @@ For the safety and well-being of the resident animals, guests are not permitted 
 
 For further information, don't hesitate to contact the dedicated staff at the zoo.
 
+
 <div class="overview" markdown="1" id="wyntk-the-jackson-zoo"> 
 
 ### More About The Jackson Zoo
     
 
-| Size (acres) | 110 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $13 |
-| Child Price | $10 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $46 |
-| Parking  | Paid |
-| Can Bring Your Own Food? | No |
+| **Size (acres)** | 110 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $13 |
+| **Child Price** | $10 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $46 |
+| **Parking** | Paid |
+| **Can Bring Your Own Food?** | No |
 
 
 > *Information from https://jacksonzoo.org/* 
@@ -130,14 +131,14 @@ The Hattiesburg Zoo, a delightful gem in Mississippi, requires a personal experi
 ### More About Hattiesburg Zoo
     
 
-| Size (acres) | 12 |
-| Time To Walk Around | 1.5 Hours |
-| Adult Price | $10 |
-| Child Price | $8 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $36 |
-| Parking  | Free |
-| Can Bring Your Own Food? | No |
+| **Size (acres)** | 12 |
+| **Time To Walk Around** | 1.5 Hours |
+| **Adult Price** | $10 |
+| **Child Price** | $8 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $36 |
+| **Parking** | Free |
+| **Can Bring Your Own Food?** | No |
 
 
 > *Information from https://hattiesburgzoo.com/* 
@@ -197,15 +198,15 @@ Be sure to contact the zoo for any additional information, and to confirm detail
 ### More About Tupelo Buffalo Park & Zoo
     
 
-| Size (acres) | 210 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $15 |
-| Child Price | $15 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $60 |
-| Parking  | Free |
-| Number Of Animals | Over 220 animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 210 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $15 |
+| **Child Price** | $15 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $60 |
+| **Parking** | Free |
+| **Number Of Animals** | Over 220 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://www.tupelobuffalopark.com/* 
