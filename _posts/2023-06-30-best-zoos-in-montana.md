@@ -61,15 +61,15 @@ For more details, please contact ZooMontana directly to plan your memorable visi
 ### More About ZooMontana
     
 
-| Size (acres) | 70 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $12 |
-| Child Price | $9 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $44 |
-| Parking  | Free |
-| Number Of Animals | Over 100 animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 70 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $12 |
+| **Child Price** | $9 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $44 |
+| **Parking** | Free |
+| **Number Of Animals** | Over 100 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://www.zoomontana.org/* 
@@ -127,14 +127,14 @@ The provision of free parking does make up for this, and although there are no f
 ### More About Grizzly & Wolf Discovery Center
     
 
-| Size (acres) | 14 |
-| Time To Walk Around | 1.5 Hours |
-| Adult Price | $16.5 |
-| Child Price | $11.5 |
-| Infant Price | Free Under 4 Years Old |
-| Price For Family Of 4 | $56 |
-| Parking  | Free |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 14 |
+| **Time To Walk Around** | 1.5 Hours |
+| **Adult Price** | $16.5 |
+| **Child Price** | $11.5 |
+| **Infant Price** | Free Under 4 Years Old |
+| **Price For Family Of 4** | $56 |
+| **Parking** | Free |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://www.grizzlydiscoveryctr.org/* 
