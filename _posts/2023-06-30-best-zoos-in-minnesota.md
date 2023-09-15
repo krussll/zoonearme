@@ -20,14 +20,15 @@ first_paragraph: "<p>The captivating state of Minnesota, renowned for its scenic
 
 <div class="find-out-more" markdown="1">
 
-### Find Out More About Minnesota Zoo
+### About Minnesota Zoo
 
 - 13000 Zoo Blvd, Apple Valley, MN 55124, United States
 - 952-431-9200
-- https://mnzoo.org/
+- <a href="https://mnzoo.org/">https://mnzoo.org/</a>
 
 
-<a href="https://mnzoo.org/">https://mnzoo.org/</a>
+
+<a class="subscribe btn" href="https://mnzoo.org/">Find Out More</a>
 
 </div>
 
@@ -86,17 +87,17 @@ With so much to offer, the Minnesota Zoo ensures an engaging, family-friendly ex
 > *https://hemkerzoo.com/* 
 
 
-
 <div class="find-out-more" markdown="1">
 
-### Find Out More About Hemker Park and Zoo
+### About Hemker Park and Zoo
 
 - 26715 Co Rd 39, Freeport, MN 56331, United States
 - 320-836-2426
-- https://hemkerzoo.com/
+- <a href="https://hemkerzoo.com/">https://hemkerzoo.com/</a>
 
 
-<a href="https://hemkerzoo.com/">https://hemkerzoo.com/</a>
+
+<a class="subscribe btn" href="https://hemkerzoo.com/">Find Out More</a>
 
 </div>
 
@@ -162,17 +163,15 @@ Get ready for an experience of a lifetime at Hemker Park and Zoo, contact them t
 > *https://comozooconservatory.org/* 
 
 
-
 <div class="find-out-more" markdown="1">
 
-### Find Out More About Como Park
+### About Como Park
 
 - 1225 ESTABROOK DRIVE ST PAUL, MN 55103
 - 651-487-8201
-- https://comozooconservatory.org/
+- <a href="https://comozooconservatory.org/">https://comozooconservatory.org/</a>
 
-
-<a href="https://comozooconservatory.org/">https://comozooconservatory.org/</a>
+<a class="subscribe btn" href="https://comozooconservatory.org/">Find Out More</a>
 
 </div>
 
@@ -238,17 +237,17 @@ Contact them today for more information.
 > *https://lszooduluth.org/* 
 
 
-
 <div class="find-out-more" markdown="1">
 
-### Find Out More About Lake Superior Zoo
+### About Lake Superior Zoo
 
 - 7210 Fremont St, Duluth, MN 55807, United States
 - 218-730-4500
-- https://lszooduluth.org/
+- <a href="https://lszooduluth.org/">https://lszooduluth.org/</a>
 
 
-<a href="https://lszooduluth.org/">https://lszooduluth.org/</a>
+
+<a class="subscribe btn" href="https://lszooduluth.org/">Find Out More</a>
 
 </div>
 
