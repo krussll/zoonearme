@@ -17,17 +17,17 @@ first_paragraph: "<p>In the rugged expanses of the Treasure State, where magnifi
 > *https://www.zoomontana.org/* 
 
 
-
 <div class="find-out-more" markdown="1">
 
-### Find Out More About ZooMontana
+### About ZooMontana
 
 - 2100 Shiloh Rd, Billings, MT 59106, United States
 - 406-652-8100
-- https://www.zoomontana.org/
+- <a href="https://www.zoomontana.org/">https://www.zoomontana.org/</a>
 
 
-<a href="https://www.zoomontana.org/">https://www.zoomontana.org/</a>
+
+<a class="subscribe btn" href="https://www.zoomontana.org/">Find Out More</a>
 
 </div>
 
@@ -89,17 +89,17 @@ For more details, please contact ZooMontana directly to plan your memorable visi
 > *https://www.grizzlydiscoveryctr.org/* 
 
 
-
 <div class="find-out-more" markdown="1">
 
-### Find Out More About Grizzly & Wolf Discovery Center
+### About Grizzly & Wolf Discovery Center
 
 - 201 S Canyon St, West Yellowstone, MT 59758, United States
 - 800-257-2570
-- https://www.grizzlydiscoveryctr.org/
+- <a href="https://www.grizzlydiscoveryctr.org/">https://www.grizzlydiscoveryctr.org/</a>
 
 
-<a href="https://www.grizzlydiscoveryctr.org/">https://www.grizzlydiscoveryctr.org/</a>
+
+<a class="subscribe btn" href="https://www.grizzlydiscoveryctr.org/">Find Out More</a>
 
 </div>
 
