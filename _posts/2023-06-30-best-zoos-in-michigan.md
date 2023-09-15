@@ -61,15 +61,15 @@ The zoo, however, does not permit holding animals or bringing pet dogs, although
 ### More About Detroit Zoo
     
 
-| Size (acres) | 125 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $14-23 |
-| Child Price | $12-19 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $84 |
-| Parking  | $8 |
-| Number Of Animals | 245 species |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 125 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $14-23 |
+| **Child Price** | $12-19 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $84 |
+| **Parking** | $8 |
+| **Number Of Animals** | 245 species |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://detroitzoo.org/* 
@@ -127,20 +127,19 @@ Please note that handling the animals is not permitted at this zoo, and while pe
 
 For more information, don't hesitate to reach out to the Binder Park Zoo.
 
-
 <div class="overview" markdown="1" id="wyntk-binder-park-zoo"> 
 
 ### More About Binder Park Zoo
     
 
-| Size (acres) | 433 |
-| Time To Walk Around | 3-5 Hours |
-| Adult Price | $16.75 |
-| Child Price | $15.75 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $65 |
-| Parking  | Free |
-| Can Bring Your Own Food? | No |
+| **Size (acres)** | 433 |
+| **Time To Walk Around** | 3-5 Hours |
+| **Adult Price** | $16.75 |
+| **Child Price** | $15.75 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $65 |
+| **Parking** | Free |
+| **Can Bring Your Own Food?** | No |
 
 
 > *Information from https://binderparkzoo.org/* 
@@ -206,14 +205,14 @@ Embark on a thrilling journey with your family at Potter Park Zoo and create mem
 ### More About Potter Park Zoo
     
 
-| Size (acres) | 102 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $8-15 |
-| Child Price | $5 |
-| Infant Price | Free Under 3 Years Old |
-| Price For Family Of 4 | $40 |
-| Parking  | $3-5 |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 102 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $8-15 |
+| **Child Price** | $5 |
+| **Infant Price** | Free Under 3 Years Old |
+| **Price For Family Of 4** | $40 |
+| **Parking** | $3-5 |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://potterparkzoo.org/* 
@@ -275,15 +274,15 @@ There's ample parking available and it's free, a convenience for those planning 
 ### More About John Ball Zoo
     
 
-| Size (acres) | 31 |
-| Time To Walk Around | 2 Hours |
-| Adult Price | $20 |
-| Child Price | $15 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $70 |
-| Parking  | Free |
-| Number Of Animals | 200 species |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 31 |
+| **Time To Walk Around** | 2 Hours |
+| **Adult Price** | $20 |
+| **Child Price** | $15 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $70 |
+| **Parking** | Free |
+| **Number Of Animals** | 200 species |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from jbzoo.org* 
@@ -347,19 +346,20 @@ Please note, pet dogs are not permitted inside, but service animals are allowed.
 
 For more information, don't hesitate to reach out to the friendly zoo staff.
 
+
 <div class="overview" markdown="1" id="wyntk-garlyn-zoo-wildlife-park"> 
 
 ### More About Garlyn Zoo Wildlife Park
     
 
-| Size (acres) | 30 |
-| Time To Walk Around | 1.5 Hours |
-| Adult Price | $15 |
-| Child Price | $7.5 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $45 |
-| Parking  | Free |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 30 |
+| **Time To Walk Around** | 1.5 Hours |
+| **Adult Price** | $15 |
+| **Child Price** | $7.5 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $45 |
+| **Parking** | Free |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from http://www.garlynzoo.com/* 
@@ -415,20 +415,21 @@ As you look forward to a thrilling escapade, do remember that the zoo’s policy
 
 Get in touch with DeYoung Family Zoo for a more detailed overview.
 
+
 <div class="overview" markdown="1" id="wyntk-deyoung-family-zoo"> 
 
 ### More About DeYoung Family Zoo
     
 
-| Size (acres) | 79 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $16 |
-| Child Price | $14 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $60 |
-| Parking  | Free |
-| Number Of Animals | 450 |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 79 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $16 |
+| **Child Price** | $14 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $60 |
+| **Parking** | Free |
+| **Number Of Animals** | 450 |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://thedeyoungfamilyzoo.com/* 
@@ -494,15 +495,15 @@ For any additional information, it's best to contact the zoo directly.
 ### More About Saginaw Children's Zoo
     
 
-| Size (acres) | 10 |
-| Time To Walk Around | 1.5 Hours |
-| Adult Price | $7 |
-| Child Price | $7 |
-| Infant Price | Free Under 1 Years Old |
-| Price For Family Of 4 | $28 |
-| Parking  | Free |
-| Number Of Animals | 150 |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 10 |
+| **Time To Walk Around** | 1.5 Hours |
+| **Adult Price** | $7 |
+| **Child Price** | $7 |
+| **Infant Price** | Free Under 1 Years Old |
+| **Price For Family Of 4** | $28 |
+| **Parking** | Free |
+| **Number Of Animals** | 150 |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://www.saginawzoo.com/* 
@@ -561,15 +562,15 @@ A visit to Roscommon Zoo, which houses over 120 animals, averages at approximate
 ### More About Roscommon Zoo
     
 
-| Size (acres) | 20 |
-| Time To Walk Around | 1.5 Hours |
-| Adult Price | $15 |
-| Child Price | $12 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $54 |
-| Parking  | Free |
-| Number Of Animals | 120 |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 20 |
+| **Time To Walk Around** | 1.5 Hours |
+| **Adult Price** | $15 |
+| **Child Price** | $12 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $54 |
+| **Parking** | Free |
+| **Number Of Animals** | 120 |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://www.roscommonzoo.com/* 
@@ -626,20 +627,21 @@ For refreshments, food stalls dot the premises, but you are welcome to bring you
 Please remember, while we all adore our pets, they are not permitted within the zoo, although service animals are legally allowed. 
 
 For an unforgettable encounter with nature, visit Indian Creek Zoo, you and your family will not be disappointed!
+
 <div class="overview" markdown="1" id="wyntk-indian-creek-zoo"> 
 
 ### More About Indian Creek Zoo
     
 
-| Size (acres) | 36 |
-| Time To Walk Around | 2 Hours |
-| Adult Price | $16 |
-| Child Price | $14 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $60 |
-| Parking  | Free |
-| Number Of Animals | 400 animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 36 |
+| **Time To Walk Around** | 2 Hours |
+| **Adult Price** | $16 |
+| **Child Price** | $14 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $60 |
+| **Parking** | Free |
+| **Number Of Animals** | 400 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://indiancreekzoo.com/* 
@@ -690,21 +692,20 @@ If hunger strikes, fret not as food stalls are available within the premises; yo
 
 While personal pet dogs are not allowed in the park, the Wilderness Trails Zoo ensures that service animals are legally permitted to enter.
 
-
 <div class="overview" markdown="1" id="wyntk-wilderness-trails-zoo"> 
 
 ### More About Wilderness Trails Zoo
     
 
-| Size (acres) | 56 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $16 |
-| Child Price | $14 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $60 |
-| Parking  | Free |
-| Number Of Animals | Over 200 animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 56 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $16 |
+| **Child Price** | $14 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $60 |
+| **Parking** | Free |
+| **Number Of Animals** | Over 200 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://wildernesstrailszoo.org/* 
