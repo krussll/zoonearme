@@ -57,15 +57,15 @@ For further details or any clarifications, do not hesitate to reach out to STL Z
 ### More About STL Zoo
     
 
-| Size (acres) | 90 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $free |
-| Child Price | $free |
-| Infant Price | Free Under free Years Old |
-| Price For Family Of 4 | $free |
-| Parking  | $15 |
-| Number Of Animals | 16,000 Animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 90 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $free |
+| **Child Price** | $free |
+| **Infant Price** | Free Under free Years Old |
+| **Price For Family Of 4** | $free |
+| **Parking** | $15 |
+| **Number Of Animals** | 16,000 Animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://stlzoo.org/* 
@@ -123,22 +123,22 @@ While public transport to the zoo might not be available, they provide ample par
 
 The zoo also prohibit visitors from bringing in outside food and drinks, but numerous food stalls are scattered throughout for you to enjoy a range of delicious snacks and meals. 
 
-However, keep in mind that while you can see and admire the animals, holding them is not allowed.
+However, keep in mind that while you can see and admire the animals, as there are currently no experiences available to get up close and personal!
 
 <div class="overview" markdown="1" id="wyntk-dickerson-park-zoo"> 
 
 ### More About Dickerson Park Zoo
     
 
-| Size (acres) | 70 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $17 |
-| Child Price | $12 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $58 |
-| Parking  | Free |
-| Number Of Animals | Over 450 animals |
-| Can Bring Your Own Food? | No |
+| **Size (acres)** | 70 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $17 |
+| **Child Price** | $12 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $58 |
+| **Parking** | Free |
+| **Number Of Animals** | Over 450 animals |
+| **Can Bring Your Own Food?** | No |
 
 
 > *Information from https://dickersonparkzoo.org/* 
@@ -194,22 +194,22 @@ While public transportation directly to the zoo isn’t available, ample free pa
 
 Food options are plentiful with various food stalls throughout the zoo, and if you prefer, you are allowed to bring your own food and drinks. 
 
-However, it's important to note that holding animals and bringing pet dogs (excluding service animals) are not permitted.
+However, it's important to note that bringing pet dogs (excluding service animals) are not permitted.
 
 <div class="overview" markdown="1" id="wyntk-kansas-city-zoo"> 
 
 ### More About Kansas City Zoo
     
 
-| Size (acres) | 202 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $22 |
-| Child Price | $20 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $84 |
-| Parking  | Free |
-| Number Of Animals | More than 1,700 animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 202 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $22 |
+| **Child Price** | $20 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $84 |
+| **Parking** | Free |
+| **Number Of Animals** | More than 1,700 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://kansascityzoo.org/* 
@@ -275,14 +275,14 @@ For further details, the zoo encourages potential visitors to reach out directly
 ### More About Endangered Wolf Center
     
 
-| Size (acres) | 2000 |
-| Time To Walk Around | Tours last around 90 mins Hours |
-| Adult Price | $18 |
-| Child Price | $15 |
-| Infant Price | Free Under 3 Years Old |
-| Price For Family Of 4 | $66 |
-| Parking  | Free |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 2000 |
+| **Time To Walk Around** | Tours last around 90 mins Hours |
+| **Adult Price** | $18 |
+| **Child Price** | $15 |
+| **Infant Price** | Free Under 3 Years Old |
+| **Price For Family Of 4** | $66 |
+| **Parking** | Free |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://www.endangeredwolfcenter.org/* 
@@ -351,14 +351,14 @@ Wrapped up in affordability and accessibility, Grant's Farm offers a delightful 
 ### More About Grant's Farm
     
 
-| Size (acres) | 280 |
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $free |
-| Child Price | $free |
-| Infant Price | Free Under free Years Old |
-| Price For Family Of 4 | $free |
-| Parking  | $16 |
-| Can Bring Your Own Food? | No |
+| **Size (acres)** | 280 |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $free |
+| **Child Price** | $free |
+| **Infant Price** | Free Under free Years Old |
+| **Price For Family Of 4** | $free |
+| **Parking** | $16 |
+| **Can Bring Your Own Food?** | No |
 
 
 > *Information from https://grantsfarm.com/* 
