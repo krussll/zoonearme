@@ -59,15 +59,15 @@ With so much to offer, the Minnesota Zoo ensures an engaging, family-friendly ex
 ### More About Minnesota Zoo
     
 
-| Size (acres) | 485 |
-| Time To Walk Around | 3-4 Hours |
-| Adult Price | $19.95 |
-| Child Price | $13.95 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $67.8 |
-| Parking  | $7 |
-| Number Of Animals | 4,500 animals and 505 species |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 485 |
+| **Time To Walk Around** | 3-4 Hours |
+| **Adult Price** | $19.95 |
+| **Child Price** | $13.95 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $67.8 |
+| **Parking** | $7 |
+| **Number Of Animals** | 4,500 animals and 505 species |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://mnzoo.org/* 
@@ -130,20 +130,19 @@ Please note, apart from service animals, pets are not allowed in the zoo.
 
 Get ready for an experience of a lifetime at Hemker Park and Zoo, contact them today for more information.
 
-
 <div class="overview" markdown="1" id="wyntk-hemker-park-and-zoo"> 
 
 ### More About Hemker Park and Zoo
     
 
-| Time To Walk Around | 2-3 Hours |
-| Adult Price | $20.25 |
-| Child Price | $18.25 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $95.25 |
-| Parking  | Free |
-| Number Of Animals | Over 200 animals |
-| Can Bring Your Own Food? | Yes |
+| **Time To Walk Around** | 2-3 Hours |
+| **Adult Price** | $20.25 |
+| **Child Price** | $18.25 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $95.25 |
+| **Parking** | Free |
+| **Number Of Animals** | Over 200 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://hemkerzoo.com/* 
@@ -204,20 +203,19 @@ For those seeking a comfortable, and cost-effective animal experience Como Park 
 
 Contact them today for more information.
 
-
 <div class="overview" markdown="1" id="wyntk-como-park"> 
 
 ### More About Como Park
     
 
-| Size (acres) | 14.5 |
-| Time To Walk Around | 2 Hours |
-| Adult Price | $4 (voluntary donation) |
-| Child Price | $2 (voluntary donation) |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $12 (voluntary donation) |
-| Parking  | Paid |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 14.5 |
+| **Time To Walk Around** | 2 Hours |
+| **Adult Price** | $4 (voluntary donation) |
+| **Child Price** | $2 (voluntary donation) |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $12 (voluntary donation) |
+| **Parking** | Paid |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://comozooconservatory.org/* 
@@ -274,21 +272,20 @@ Do remember though, while pets aren't permitted, service animals are legally all
 
 For any further information, visitors are encouraged to contact the zoo directly.
 
-
 <div class="overview" markdown="1" id="wyntk-lake-superior-zoo"> 
 
 ### More About Lake Superior Zoo
     
 
-| Size (acres) | 19 |
-| Time To Walk Around | 2 Hours |
-| Adult Price | $16 |
-| Child Price | $10 |
-| Infant Price | Free Under 2 Years Old |
-| Price For Family Of 4 | $52 |
-| Parking  | Free |
-| Number Of Animals | Over 200 animals |
-| Can Bring Your Own Food? | Yes |
+| **Size (acres)** | 19 |
+| **Time To Walk Around** | 2 Hours |
+| **Adult Price** | $16 |
+| **Child Price** | $10 |
+| **Infant Price** | Free Under 2 Years Old |
+| **Price For Family Of 4** | $52 |
+| **Parking** | Free |
+| **Number Of Animals** | Over 200 animals |
+| **Can Bring Your Own Food?** | Yes |
 
 
 > *Information from https://lszooduluth.org/* 
