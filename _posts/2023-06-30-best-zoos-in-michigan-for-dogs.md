@@ -1,26 +1,27 @@
 ---
 layout: post
-title:  "The Best Zoo In Michigan, USA For Dogs"
+title:  "The Best Zoo In Michigan, USA For Dogs & Service Animals"
 author: reece
 categories: [ zoo ]
 image: assets/images/best-zoos-in-michigan-for-dogs.jpg
-description: "Explore the top zoos in Michigan with our comprehensive guide, delve into the wealth of wildlife and the unique experiences these outstanding zoos offer. Perfect for family outings or a weekend adventure."
-first_paragraph: "<p>Michigan, the Great Lakes State, is renowned for many things, but did you know that it is also home to some fantastic zoos that are dog-friendly? That's right, not only does Michigan boast stunning landscapes and rich history, but it also offers a paradise for dog owners looking to visit zoos with their four-legged companions in tow.</p><p>Join us as we embark on a unique journey to discover the best zoos in Michigan that welcome every member of the family, including those furry, four-legged ones! This feature will surely get those tails wagging.</p>"
+last_modified_at: "2026-11-02"
+description: "Explore zoo pet policies and ADA service dog regulations across Michigan. Learn which facilities accommodate service animals, biosecurity exemptions, and outdoor alternatives."
+first_paragraph: "<p>Planning a trip to a Michigan zoo and wondering about canine policies? While personal pet dogs and emotional support animals are excluded from zoological habitats across the state to protect exotic wildlife, ADA-recognized service dogs are fully protected by federal law.</p><p>In this guide, we break down Michigan zoo pet policies, service dog check-in procedures, restricted biosecurity areas, and nearby dog-friendly parks for families traveling with pets.</p>"
 ---
+
+<div class="alert alert-warning mt-2 mb-4" role="alert">
+    <strong><i class="fas fa-dog"></i> Important Pet &amp; Service Dog Policy:</strong> In accordance with veterinary biosecurity protocols and captive wildlife safety, personal pet dogs and Emotional Support Animals (ESAs) are <strong>strictly prohibited</strong> in public zoos. However, under <a href="https://www.ada.gov/resources/service-animals-2010-requirements/" target="_blank" rel="noopener noreferrer">Title III of the Americans with Disabilities Act (ADA)</a>, task-trained service dogs and miniature horses are legally welcomed across public zoo walkways, with limited restrictions in sensitive zones such as free-flight walk-through aviaries. Learn more in our <a href="/review-methodology">Review Methodology</a>.
+</div>
 
 <div class="overview" markdown="1"> 
 
 ## At A Glance
 
-While the state of Michigan proudly boasts of an array of impressive zoos teeming with diverse species of wildlife, these venues are, regretfully, not designed for canine exploration. 
+While the state of Michigan proudly boasts an array of impressive zoos teeming with diverse species of wildlife, these venues uphold strict biosecurity rules prohibiting personal pets and emotional support animals. 
 
-Across the board, zoos in Michigan uphold strict policies prohibiting the entry of dogs and other pets for a variety of reasons. 
+Across the board, zoos in Michigan enforce these policies to protect animal welfare, prevent disease transmission, and avoid predatory or territorial distress between outside canines and resident animals. 
 
-Primarily, this is to ensure the safety and well-being of both the zoo's inhabitants and the visiting pets alike, as interactions between unfamiliar animal species can breed unpredictable situations. 
-
-Additionally, the presence of pets could potentially disrupt the habitats and disturb the routines of the animals in their care. 
-
-While our furry friends might enjoy such an adventure, for the moment, it's best to reserve zoo visits for our human family members only.
+However, **all public Michigan zoos legally accommodate certified ADA service animals**. Handlers will typically be asked standard check-in questions at the ticket admissions desk: (1) Is the animal required because of a disability? and (2) What work or task has the dog been trained to perform?
 
 </div>
 

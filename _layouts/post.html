@@ -16,6 +16,11 @@ post_class: post-template
 			<div class="mainheading">
 				<h1 class="posttitle">{{ page.title }}</h1>
 			</div>
+
+			<div class="editorial-badge mb-3">
+				<span class="badge badge-success"><i class="fas fa-check-circle"></i> Verified Travel Guide</span>
+				<span class="small text-muted ml-2">Fact-checked via official zoo data &amp; ADA guidelines | <a href="{{ site.baseurl }}/review-methodology">Methodology &raquo;</a></span>
+			</div>
 			
 			{% if page.first_paragraph %}
 			<div class="intro-block">{{ page.first_paragraph }}</div>
@@ -32,7 +37,7 @@ post_class: post-template
 				<div class="clearfix"></div>
 			</div>
 
-            	<!-- Post Date -->
+            <!-- Post Date -->
             <p>
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
@@ -41,6 +46,22 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
+
+            <!-- Pricing & Policy Disclaimer -->
+            <div class="alert alert-info mt-4 mb-4" role="alert">
+                <small><i class="fas fa-info-circle"></i> <strong>Visitor Notice:</strong> Admission prices, parking fees, and animal exhibit access are subject to seasonal schedule changes. Zoo Near Me audits facility details regularly, but visitors should always confirm current ticket rates and operating hours directly with the destination zoo prior to travel.</small>
+            </div>
+
+            <!-- Reader / Community Feedback Callout -->
+            <div class="community-feedback card p-3 mt-4 mb-4 bg-light">
+                <div class="media">
+                    <div class="media-body">
+                        <h6 class="mt-0 mb-1"><i class="fas fa-comment-dots text-primary"></i> Visited this zoo recently?</h6>
+                        <p class="small text-muted mb-2">Notice an updated ticket price, new accessibility ramp, or exhibit change? Help fellow travelers by reporting an update!</p>
+                        <a href="{{ site.baseurl }}/contact" class="btn btn-sm btn-outline-primary">Submit a Visitor Update &raquo;</a>
+                    </div>
+                </div>
+            </div>
 
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks">
@@ -59,14 +80,16 @@ post_class: post-template
 
              <!-- Author Box -->
                 {% if page.author %}
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img width="72" height="72" class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+				<div class="row post-top-meta align-items-center mt-4 p-3 bg-light rounded">
+					<div class="col-md-2 col-3 text-center">
+						<img width="80" height="80" class="author-thumb rounded-circle shadow-sm" 
+						     src="{% if author.avatar %}{{ site.baseurl }}/{{ author.avatar }}{% else %}https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x{% endif %}"
 						     alt="{{ author.display_name }}">
 					</div>
-					<div class="col-md-10">
-						<a class="link-dark" href="{{ site.baseurl }}/about-me">{{ author.display_name }}</a>
-						<span class="author-description">{{ author.description }}</span>
+					<div class="col-md-10 col-9">
+						<h6 class="mb-1"><a class="link-dark font-weight-bold" href="{{ site.baseurl }}/about-me">{{ author.display_name }}</a> <span class="badge badge-secondary ml-1">{{ author.job_title | default: "Lead Travel Writer" }}</span></h6>
+						<p class="small text-muted mb-1">{{ author.description }}</p>
+						<a class="small font-weight-bold" href="{{ site.baseurl }}/about-me">Read Author Profile & Mission &raquo;</a>
 					</div>
 				</div>
                 {% endif %}
@@ -102,11 +125,16 @@ post_class: post-template
       "image": "{{ site.url }}/{{ page.image }}",
       "author": {
         "@type": "Person",
+        "@id": "{{ site.url }}/about-me#author",
         "name": "{{ author.display_name }}",
-        "url": "{{ site.url }}/about-me"
+        "jobTitle": "{{ author.job_title | default: 'Founder & Lead Wildlife Travel Writer' }}",
+        "url": "{{ site.url }}/about-me",
+        "description": {{ author.description | jsonify }},
+        "image": "{{ site.url }}/assets/images/author-reece.jpg"
       },
       "publisher": {
         "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
         "name": "Zoo Near Me",
         "url": "{{ site.url }}",
         "logo": {

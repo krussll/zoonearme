@@ -1,16 +1,11 @@
-<form class="description" id="theform" name="theform" action="https://my.sendinblue.com/users/subscribeembed/js_id/350do/id/1" method="POST"> 
-  <input type="hidden" name="js_id" id="js_id" value="350do">
-  <input type="hidden" name="listid" id="listid" value="4">
-  <input type="hidden" name="from_url" id="from_url" value="yes">
-  <input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
-  <input type="hidden" name="sib_simple" value="simple"> 
-  <input type="hidden" name="sib_forward_url" value="http://www.bfea.co.uk/success" id="sib_forward_url"> 
-  <div class="form-group">
-    <input type="hidden" name="req_hid" id="req_hid" value="">  
-    <label for="email">Email address *</label>
-    <input required type="email" name="email" id="email" value="">
-  </div> 
-
-
-  <button class="btn btn-primary" type="submit">Subscribe</button>
-</form>
+<div class="newsletter-signup-widget card p-3">
+  <h5>Sign Up for Zoo Updates</h5>
+  <p class="small text-muted">Get our latest state zoo guides, seasonal ticket discount alerts, and family accessibility tips.</p>
+  <form action="/contact" method="GET">
+    <div class="form-group mb-2">
+      <label for="newsletter-email" class="sr-only">Email address</label>
+      <input type="email" id="newsletter-email" name="email" class="form-control form-control-sm" placeholder="Enter your email address" required>
+    </div>
+    <button type="submit" class="btn btn-primary btn-sm btn-block">Subscribe</button>
+  </form>
+</div>
