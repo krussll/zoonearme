@@ -605,7 +605,7 @@ For more information, prospective visitors should reach out to the zoo directly.
 
 ### Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 

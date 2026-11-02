@@ -162,7 +162,7 @@ With a mission that aims to 'Connect, Inspire, Conserve', Binder Park Zoo tailor
 
 ## 3) Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 

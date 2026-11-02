@@ -7,14 +7,14 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-	<div class="row"  itemscope itemtype="http://schema.org/BlogPosting">
+	<div class="row">
 
 		<!-- Post -->
         {% assign author = site.authors[page.author] %}
 
 		<div class="col-md-8 col-lg-8">
 			<div class="mainheading">
-				<h1 class="posttitle" itemprop="headline name">{{ page.title }}</h1>
+				<h1 class="posttitle">{{ page.title }}</h1>
 			</div>
 			
 			{% if page.first_paragraph %}
@@ -22,11 +22,11 @@ post_class: post-template
 			{% endif %}
 			
 			<!-- Post Featured Image -->
-			{% if page.image %}<img width="730" height="410" class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}" itemprop="image">{% endif %}
+			{% if page.image %}<img width="730" height="410" class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
-			<div class="article-post"  itemprop="articleBody"> 
+			<div class="article-post"> 
 				<span id="ezoic-pub-video-placeholder-1"></span>
 				{{content}}
 				<div class="clearfix"></div>
@@ -35,18 +35,12 @@ post_class: post-template
             	<!-- Post Date -->
             <p>
             <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}"  itemprop="datePublished">{{ page.date | date_to_string }}</time></span>
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
                 {% if page.last_modified_at %}
-                (Updated: <time date="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at }}</time>)
+                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at }}</time>)
                 {% endif %}
                 </small>
             </p>
-	<p>
-		<small itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-			<span itemprop="name">Zoo Near Me</span>
-		</small>
-
-
 
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks">
@@ -63,21 +57,19 @@ post_class: post-template
             </div>
             <!-- End Prev/Next -->
 
-
              <!-- Author Box -->
                 {% if page.author %}
-				<div class="row post-top-meta" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="row post-top-meta">
 					<div class="col-md-2">
 						<img width="72" height="72" class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
 						     alt="{{ author.display_name }}">
 					</div>
 					<div class="col-md-10">
-						<a class="link-dark" href="/about-us"><span itemprop="name">{{ author.display_name }} </span></a>
+						<a class="link-dark" href="{{ site.baseurl }}/about-me">{{ author.display_name }}</a>
 						<span class="author-description">{{ author.description }}</span>
 					</div>
 				</div>
                 {% endif %}
-
 
 		</div>
 		<!-- End Post -->
@@ -86,12 +78,70 @@ post_class: post-template
         <div class="col-md-4 col-lg-4">
         <div class="sidebar-right">
         {% include sidebar.html %}
-		
-		
         </div>
         </div>
 
 	</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "{{ site.url }}{{ page.url }}#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}{{ page.url }}"
+      },
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "mainEntityOfPage": "{{ site.url }}{{ page.url }}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+      "image": "{{ site.url }}/{{ page.image }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ author.display_name }}",
+        "url": "{{ site.url }}/about-me"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Zoo Near Me",
+        "url": "{{ site.url }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/images/zoonearme.png"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ site.url }}{{ page.url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "{{ site.url }}/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Zoos By State",
+          "item": "{{ site.url }}/zoos-by-states"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ page.title | jsonify }},
+          "item": "{{ site.url }}{{ page.url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <!-- End Article
 ================================================== -->

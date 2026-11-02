@@ -632,7 +632,7 @@ Regrettably, public transport is not an option for reaching Roscommon Zoo, but i
 
 ### Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 

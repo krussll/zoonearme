@@ -5,7 +5,7 @@ author: reece
 categories: [ zoo ]
 image: assets/images/best-zoos-in-mississippi-to-see-capybaras.jpg
 description: "Explore Mississippi's top zoos that offer unique opportunities to meet and learn about Capybaras, the world's largest rodents. Get insider tips on the best times to visit and what to expect at each zoo in our in-depth guide."
-first_paragraph: "<p>Welcome to the charming world of capybaras, the largest rodents on the planet! This friendly, semi-aquatic creature, affectionately known as "water pig," hails from South America, but has become increasingly popular in zoos across the United States, winning hearts with their docile demeanor.</p><p>In today's post, we're embarking on an exciting journey across the state of Mississippi, home to a number of zoos and wildlife parks where you can enjoy close encounters with these gentle giants.</p><p>From the Mississippi Gulf Coast to the charming city of Jackson, get ready to be enchanted by top-tier spots for capybara spotting in the Magnolias State!</p>"
+first_paragraph: "<p>Welcome to the charming world of capybaras, the largest rodents on the planet! This friendly, semi-aquatic creature, affectionately known as 'water pig,' hails from South America, but has become increasingly popular in zoos across the United States, winning hearts with their docile demeanor.</p><p>In today's post, we're embarking on an exciting journey across the state of Mississippi, home to a number of zoos and wildlife parks where you can enjoy close encounters with these gentle giants.</p><p>From the Mississippi Gulf Coast to the charming city of Jackson, get ready to be enchanted by top-tier spots for capybara spotting in the Magnolias State!</p>"
 ---
 
 <div class="overview" markdown="1"> 

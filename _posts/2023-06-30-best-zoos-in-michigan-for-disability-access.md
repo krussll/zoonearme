@@ -576,7 +576,7 @@ Roscommon Zoo’s commitment to accessibility paired with its serene setting and
 
 ### 9) Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 

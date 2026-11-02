@@ -209,3 +209,58 @@ Accessibility for individuals with disabilities remains a common strength in bot
 The choice between the two comes down to personal preference and logistics. 
 
 For those preferring a larger zoo with unique animals, Detroit Zoo would be the ideal choice, while John Ball Zoo offers a comprehensive experience with a focus on sustainability.
+
+## Frequently Asked Questions
+
+### Which zoo is cheaper for families: Detroit Zoo or John Ball Zoo?
+John Ball Zoo in Grand Rapids is slightly cheaper for families, with free on-site parking and average family tickets around $70. Detroit Zoo costs around $84 for a family of four plus an $8 vehicle parking charge.
+
+### Which zoo is larger: Detroit Zoo or John Ball Zoo?
+Detroit Zoo is four times larger at 125 acres compared to John Ball Zoo's 31 acres. A visit to John Ball Zoo takes roughly 2 hours, whereas Detroit Zoo takes 3 to 4 hours.
+
+### Can you bring your own food into Detroit Zoo and John Ball Zoo?
+Yes, both Detroit Zoo and John Ball Zoo allow visitors to bring their own outside food and non-alcoholic drinks, offering plenty of scenic picnic areas.
+
+### Does John Ball Zoo have hills?
+Yes, John Ball Zoo is built into a natural wooded ravine and hillside in Grand Rapids. It features an inclined funicular (tram) that visitors can ride to reach the higher exhibits, making it manageable for families and stroller users.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which zoo is cheaper for families: Detroit Zoo or John Ball Zoo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "John Ball Zoo in Grand Rapids is slightly cheaper for families, with free on-site parking and average family tickets around $70. Detroit Zoo costs around $84 for a family of four plus an $8 vehicle parking charge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which zoo is larger: Detroit Zoo or John Ball Zoo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detroit Zoo is four times larger at 125 acres compared to John Ball Zoo's 31 acres. A visit to John Ball Zoo takes roughly 2 hours, whereas Detroit Zoo takes 3 to 4 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you bring your own food into Detroit Zoo and John Ball Zoo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, both Detroit Zoo and John Ball Zoo allow visitors to bring their own outside food and non-alcoholic drinks, offering plenty of scenic picnic areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does John Ball Zoo have hills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, John Ball Zoo is built into a natural wooded ravine and hillside in Grand Rapids. It features an inclined funicular (tram) that visitors can ride to reach the higher exhibits, making it manageable for families and stroller users."
+      }
+    }
+  ]
+}
+</script>

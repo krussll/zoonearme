@@ -580,7 +580,7 @@ Their presence, coupled with the ability to enjoy a home-crafted picnic, makes R
 
 ### Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 

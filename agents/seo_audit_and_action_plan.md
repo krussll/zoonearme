@@ -551,28 +551,28 @@ Once the core technical debt and cannibalization issues are resolved:
 
 ```markdown
 ### Phase 1: Immediate Critical Fixes (Day 1)
-- [ ] Fix 7 unescaped quotes in `_posts/` frontmatter (resolves 404s and build failures)
-- [ ] Set `url: "https://www.zoonear.me"` and `baseurl: ""` in `_config.yml`
-- [ ] Generate fully qualified absolute XML sitemap in `sitemap.xml`
-- [ ] Add `Sitemap:` directive to `robots.txt` and delete duplicate `Robots.txt`
-- [ ] Update author link from `/about-us` to `/about-me` in `_layouts/post.html`
-- [ ] Remove 3 duplicate double-hyphen files in `_posts/`
+- [x] Fix 7 unescaped quotes in `_posts/` frontmatter (resolves 404s and build failures)
+- [x] Set `url: "https://www.zoonear.me"` and `baseurl: ""` in `_config.yml`
+- [x] Generate fully qualified absolute XML sitemap in `sitemap.xml`
+- [x] Add `Sitemap:` directive to `robots.txt` and delete duplicate `Robots.txt`
+- [x] Update author link from `/about-us` to `/about-me` in `_layouts/post.html`
+- [x] Remove 3 duplicate double-hyphen files in `_posts/`
 
 ### Phase 2: On-Page & Schema (Week 1)
-- [ ] Truncate and optimize title tags in `_layouts/default.html` (under 60 chars)
-- [ ] Add Open Graph and Twitter Card tags to `<head>`
-- [ ] Implement Article and BreadcrumbList JSON-LD in `_layouts/post.html`
-- [ ] Fix Indian Creek Zoo missing `.jpg` extensions and add image dimensions in `postbox.html`
-- [ ] Change `<h2>` to `<h1>` in `_layouts/page.html`
+- [x] Truncate and optimize title tags in `_layouts/default.html` (under 60 chars)
+- [x] Add Open Graph and Twitter Card tags to `<head>`
+- [x] Implement Article and BreadcrumbList JSON-LD in `_layouts/post.html`
+- [x] Fix Indian Creek Zoo missing `.jpg` extensions and add image dimensions in `postbox.html`
+- [x] Change `<h2>` to `<h1>` in `_layouts/page.html`
 
 ### Phase 3: Cannibalization & Internal Linking (Weeks 2-3)
-- [ ] Merge and 301-redirect 20 singular posts into plural equivalents
-- [ ] Merge and 301-redirect 15 duplicate animal guides
-- [ ] Redesign `zoos-by-states.md` with complete state directory navigation
-- [ ] Expand `_includes/recommended.html` sidebar with multi-state and category links
+- [x] Merge and 301-redirect 20 singular posts into plural equivalents
+- [x] Merge and 301-redirect 15 duplicate animal guides
+- [x] Redesign `zoos-by-states.md` with complete state directory navigation
+- [x] Expand `_includes/recommended.html` sidebar with multi-state and category links
 
 ### Phase 4: E-E-A-T & Trust (Week 4)
-- [ ] Add real author bio and avatar in `_config.yml`
-- [ ] Clean up lawn bowls email in `contact.md` and remove obsolete includes
-- [ ] Add FAQ accordions with FAQPage schema on top comparison articles
+- [x] Add real author bio and avatar in `_config.yml`
+- [x] Clean up lawn bowls email in `contact.md` and remove obsolete includes
+- [x] Add FAQ accordions with FAQPage schema on top comparison articles
 ```

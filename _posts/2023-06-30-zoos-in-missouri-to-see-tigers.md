@@ -6,6 +6,8 @@ categories: [ zoo ]
 image: assets/images/best-zoos-in-missouri-to-see-tigers.jpg
 description: "Explore Missouri's best zoos to observe magnificent tigers up close. This article unveils top zoos in the state that are committed to conservation, education, and showcasing these magnificent creatures. Get ready for a wild adventure in Missouri!"
 first_paragraph: "<p>Discover the wild side of Missouri as we embark on an exciting journey through the best zoos in the state, specifically for the tiger enthusiasts out there! These are not your everyday felines - they're majestic, fierce and undeniably one of nature's most impressive creatures.</p><p>From Siberian to Bengal tigers, we've scouted out the spots where you're bound to have a breathtaking tiger experience.</p><p>Read on to learn more about where you can get up close and personal with these magnificent big cats in the Show-Me State.</p>"
+redirect_to:
+  - https://www.zoonear.me/best-zoos-in-missouri-to-see-tigers
 ---
 
 <div class="overview" markdown="1"> 

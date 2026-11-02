@@ -165,3 +165,58 @@ Two captivating institutions each standing out in their own ways.
 Whether your preference leans towards the intimate and varied wildlife of Hattiesburg Zoo, or the buffalo-rich expansive terrain of the Tupelo Buffalo Park & Zoo, you are primed for an engaging, fulfilling day of animal discovery in Mississippi. 
 
 Both venues are carefully curated family-friendly spaces, thoughtfully designed to enhance the visitor's exploration as they draw us into the fascinating world of the Animal Kingdom.
+
+## Frequently Asked Questions
+
+### Which zoo is larger: Hattiesburg Zoo or Tupelo Buffalo Park & Zoo?
+Tupelo Buffalo Park & Zoo is substantially larger at 210 acres, offering open safari pastures and buffalo exhibits. Hattiesburg Zoo is a compact, intimate 12-acre park located in Kamper Park that is easy to navigate in 1 to 2 hours.
+
+### Which zoo is better for wheelchair accessibility and strollers?
+Hattiesburg Zoo is much more accessible for wheelchairs and strollers, featuring smooth, level paved walkways throughout the facility. Tupelo Buffalo Park has unpaved dirt and gravel nature trails that can be challenging for mobility devices after rain.
+
+### Can you bring outside food and drinks into Tupelo Buffalo Park?
+Yes, Tupelo Buffalo Park & Zoo allows guests to bring their own picnic food and drinks. Hattiesburg Zoo features on-site concessions and asks that visitors refrain from bringing large coolers into the park.
+
+### Can you feed animals at these zoos?
+Yes, Hattiesburg Zoo offers a popular giraffe feeding experience. Tupelo Buffalo Park offers guided open-air trolley tours where guests can feed bison, zebras, and other pasture animals.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which zoo is larger: Hattiesburg Zoo or Tupelo Buffalo Park & Zoo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tupelo Buffalo Park & Zoo is substantially larger at 210 acres, offering open safari pastures and buffalo exhibits. Hattiesburg Zoo is a compact, intimate 12-acre park located in Kamper Park that is easy to navigate in 1 to 2 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which zoo is better for wheelchair accessibility and strollers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hattiesburg Zoo is much more accessible for wheelchairs and strollers, featuring smooth, level paved walkways throughout the facility. Tupelo Buffalo Park has unpaved dirt and gravel nature trails that can be challenging for mobility devices after rain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you bring outside food and drinks into Tupelo Buffalo Park?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Tupelo Buffalo Park & Zoo allows guests to bring their own picnic food and drinks. Hattiesburg Zoo features on-site concessions and asks that visitors refrain from bringing large coolers into the park."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you feed animals at these zoos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Hattiesburg Zoo offers a popular giraffe feeding experience. Tupelo Buffalo Park offers guided open-air trolley tours where guests can feed bison, zebras, and other pasture animals."
+      }
+    }
+  ]
+}
+</script>

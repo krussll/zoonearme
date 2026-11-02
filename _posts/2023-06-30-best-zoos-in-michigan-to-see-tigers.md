@@ -457,7 +457,7 @@ All in all, the Roscommon Zoo exudes a small-town charm that makes it a truly he
 
 ## 7) Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 

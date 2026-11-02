@@ -18,13 +18,26 @@
 <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	
-{% if page.tags != blank %}	
-<meta name="keyword" content="{{ page.tags }}">
+{% if page.url == "/" %}
+<title>Zoo Near Me | Best US Zoos & Wildlife Guides State-by-State</title>
+{% else %}
+<title>{{ page.title | truncate: 50 }} | Zoo Near Me</title>
 {% endif %}
-	
-<title>{{ page.title }} | {{site.title_suffix}}</title>
-  
-<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
+
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} | Zoo Near Me{% else %}{{ site.name }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{{ site.url }}/{% if page.image %}{{ page.image }}{% else %}assets/images/zoonearme.png{% endif %}">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | Zoo Near Me{% else %}{{ site.name }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image" content="{{ site.url }}/{% if page.image %}{{ page.image }}{% else %}assets/images/zoonearme.png{% endif %}">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">

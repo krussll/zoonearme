@@ -6,17 +6,21 @@ description: "Online Guides To The Best Zoos In The US State-By-State"
 meta_description: "Online Guides To The Best Zoos In The US State-By-State"
 logo: "/assets/images/zoonearme.png"
 favicon: "/assets/images/favicon.ico"
-baseurl: "https://www.zoonear.me"
+url: "https://www.zoonear.me"
+baseurl: ""
 permalink: /:title
-email: ""
+email: "contact@zoonear.me"
 google_analytics: ""
 future: true
+
+plugins:
+  - jekyll-redirect-from
 
 # Authors
 authors:
   reece:
     name: Reece
-    display_name: Reece Williams 
-    gravatar:
-    email: ""
-    description: ""
+    display_name: Reece Williams
+    gravatar: "d41d8cd98f00b204e9800998ecf8427e"
+    email: "contact@zoonear.me"
+    description: "Wildlife enthusiast and travel writer dedicated to helping families discover accessible, budget-friendly zoological parks and wildlife sanctuaries across the United States."

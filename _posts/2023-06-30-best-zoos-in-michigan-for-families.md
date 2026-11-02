@@ -554,7 +554,7 @@ With its engaging mixture of animals, child-friendly atmosphere and cost-effecti
 
 ### 9) Indian Creek Zoo
 
-![Indian Creek Zoo](assets/images/zoos/indian-creek-zoo)
+![Indian Creek Zoo](/assets/images/zoos/indian-creek-zoo.jpg)
 
 > *https://indiancreekzoo.com/* 
 
